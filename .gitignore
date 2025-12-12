@@ -1,0 +1,7 @@
+# Ignore large data files
+data/
+*.parquet
+*.snappy.parquet
+*.csv
+__pycache__/
+.DS_Store
